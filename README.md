@@ -1,5 +1,7 @@
-# Sud0ku
-This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version.
+JavaScript# Sud0ku
+This is a sudoku solver using the backtracking algorithm. It includes a graphical
+ GUI as well as a text based version. I recently made a javascript version, but I
+ personally believe that the python version is much better.
 
 Run GUI.py to play sudoku.
 
